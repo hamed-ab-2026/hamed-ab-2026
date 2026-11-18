@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hamed-ab-2026/hamed-ab-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hamed
 
-Here are some ideas to get you started:
+### 🚚 This account has moved!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main GitHub account, with all my projects, activity and contributions, is here:
+
+<a href="https://github.com/hamedAbdollahzade">
+  <img src="https://img.shields.io/badge/GitHub-hamedAbdollahzade-181717?style=for-the-badge&logo=github&logoColor=white" alt="Main GitHub account" />
+</a>
+
+<br/><br/>
+
+👉 **[github.com/hamedAbdollahzade](https://github.com/hamedAbdollahzade)** 👈
+
+<br/>
+
+<sub>Front-End Developer | React.js | Next.js 💫</sub>
+
+</div>
